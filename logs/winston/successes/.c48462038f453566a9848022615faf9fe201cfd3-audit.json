@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\.c48462038f453566a9848022615faf9fe201cfd3-audit.json",
+    "files": [
+        {
+            "date": 1688050747167,
+            "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-29-06-20-success.log",
+            "hash": "da6c0cee8457c47a2fa263346f206d510a135b9296c5de7f4c21de1b71551958"
+        }
+    ],
+    "hashType": "sha256"
+}
