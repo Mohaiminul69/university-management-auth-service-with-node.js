@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\.9513a1e4682d4ae19664ab12c0ba9a7601cabde0-audit.json",
-    "files": [
-        {
-            "date": 1688050645499,
-            "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-06-29-20-success.log",
-            "hash": "b163ddad65d8dac3e578a042c160f78391472e1912bf7be7cc93d12d5dbd717e"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\.9513a1e4682d4ae19664ab12c0ba9a7601cabde0-audit.json",
+  "files": [
+    {
+      "date": 1688050645499,
+      "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-06-29-20-success.log",
+      "hash": "b163ddad65d8dac3e578a042c160f78391472e1912bf7be7cc93d12d5dbd717e"
+    }
+  ],
+  "hashType": "sha256"
 }
