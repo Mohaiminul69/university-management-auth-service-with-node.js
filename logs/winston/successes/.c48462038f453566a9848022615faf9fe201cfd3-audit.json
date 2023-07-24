@@ -6,16 +6,6 @@
     "auditLog": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\.c48462038f453566a9848022615faf9fe201cfd3-audit.json",
     "files": [
         {
-            "date": 1688574731104,
-            "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-05-07-22-success.log",
-            "hash": "3820f4de2b363e7073a23807f6be012a3cedc3f7835fe91393b1d1b98b28f83d"
-        },
-        {
-            "date": 1688576408549,
-            "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-05-07-23-success.log",
-            "hash": "74d91d009927adbcdbf73a0ee56b27e61489ab481dbed97f7bf41f0971dddad0"
-        },
-        {
             "date": 1688921381966,
             "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-09-07-22-success.log",
             "hash": "c4a55f9a8fb0f9e2697eaccae1ad6d5cb107ee4800f4641c77ee579966aabe88"
@@ -74,6 +64,16 @@
             "date": 1689704488718,
             "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-19-07-00-success.log",
             "hash": "c2b7be74905e414ab05405c6db93c294c0dabfeac15cc306acd0c72fb828cb08"
+        },
+        {
+            "date": 1689788818845,
+            "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-19-07-23-success.log",
+            "hash": "be1217b0e5ebd34e672c13281c14b4c7d4b4cb53f1ce9db1369e7121ffbed3fa"
+        },
+        {
+            "date": 1689790233413,
+            "name": "C:\\Users\\admin\\Desktop\\My Pojects\\PHero Next Level Modules\\university-management-auth-service\\logs\\winston\\successes\\2023-20-07-00-success.log",
+            "hash": "f8fad05f3f965f19ab90afa67c587e77cf6a368a1fa04849ccbcbf3e33140ce9"
         }
     ],
     "hashType": "sha256"
